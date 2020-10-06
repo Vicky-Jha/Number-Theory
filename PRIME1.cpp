@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #define lli long long int
 #define vi vector<int>
-
+//segmented sieve
 
 using namespace std;
 vi primes;
