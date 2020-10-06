@@ -1,5 +1,5 @@
 //Prime Factors and Number of Divisors
-
+//log(n)
 #include <bits/stdc++.h>
 
 using namespace std;
