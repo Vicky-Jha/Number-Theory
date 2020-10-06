@@ -2,7 +2,7 @@
 #define MAXN 1000
 using namespace std; 
 int factorial[MAXN+1];
-// this code can  be used when finding combination of large numbers 
+//Useful when finding combination of large numbers 
 unsigned long long power(unsigned long long a, 
 						int n, int mod) 
 { 
