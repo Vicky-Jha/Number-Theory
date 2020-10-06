@@ -25,8 +25,7 @@ int powerFunc(int a , int n)
 
 int main()
 {
-    //freopen("input.txt" , "r", stdin);
-    //freopen("outpux.txt","w" , stdout);
+
     int a,n;
     cin>>a>>n;
     cout<<powerFunc(a,n)<<"\n";
