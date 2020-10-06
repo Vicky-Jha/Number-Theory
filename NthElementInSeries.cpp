@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define MOD 10000000007          //if used 1e9+7 then invalid operands to binary exp error                                  
+#define MOD 10000000007         
 #define lli long long int
 using namespace std;
 lli T[2][2] , I[2][2];
