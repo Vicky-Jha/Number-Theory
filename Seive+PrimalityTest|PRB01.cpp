@@ -1,3 +1,4 @@
+// Link: https://www.codechef.com/problems/PRB01
 #include <bits/stdc++.h>
 #define MAX 100001
 using namespace std;
