@@ -20,7 +20,7 @@ void init(int L, int R)
 			primes.push_back(i);
 			
 		
-	bool f = 1; 
+	bool f = 1; //This checks if L is Smaller than r
 	if ( L <= r)
 	{
 		f = 0;
