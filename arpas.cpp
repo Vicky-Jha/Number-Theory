@@ -6,7 +6,8 @@ int main()
     cin>>n;
 if (n == 0)
 	cout << "1\n";
-else {
+else 
+{
 	int d[] = {8, 4, 2, 6};
 	n--;
 	n %= 4;
