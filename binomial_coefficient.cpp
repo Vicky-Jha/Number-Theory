@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#define lli long long int
 using namespace std;
 //int nChoosek(int n, int k) // recursive approach
 //{
@@ -16,7 +15,7 @@ using namespace std;
     //for (int i = 2; i <= k; ++i)
         //res /= i;
     //return res;
-//}
+// }
 int nChoosek(int n , int k) // more improvised 
 {
 	double res = 1;
