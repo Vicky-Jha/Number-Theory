@@ -5,6 +5,7 @@
 #define lli size_t
 
 
+
 using namespace std;
 
 lli power(lli a, lli n , lli d)
