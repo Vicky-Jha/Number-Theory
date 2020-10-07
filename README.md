@@ -1,5 +1,3 @@
-### Read this before moving head! [Important](https://github.com/kaustubhgupta/Hacktoberfest2020_/issues/105)
-
 [![CodeFactor](https://www.codefactor.io/repository/github/kaustubhgupta/hacktoberfest2020_/badge)](https://www.codefactor.io/repository/github/kaustubhgupta/hacktoberfest2020_)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 
@@ -10,7 +8,7 @@ Voila!
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Number%20Theory%for%Competitive%Programming%and%for%Interview%prep&fontSize=70&fontAlignY=70" /> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Number%20Theory%20for%20Competitive%20Programming%20and%20for%20Interview%20prep&fontSize=70&fontAlignY=70" /> 
 <h2 align="center">👉 A Collection of Solutions to Number Theory Problems 👈</h2>
 </p>
 
@@ -21,7 +19,7 @@ Voila!
 <img src="https://img.shields.io/badge/language-PHP-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-SQL-blue?style=for-the-badge">
  </p>
-<p align="center">https://github.com/Vicky-Jha/Number-Theory
+<p align="center">
 <img src="https://img.shields.io/github/issues-raw/Vicky-Jha/Number-Theory?style=for-the-badge" >
 <img src="https://img.shields.io/github/issues-closed-raw/Vicky-Jha/Number-Theory?style=for-the-badge" >
 <img src="https://img.shields.io/github/issues-pr-raw/Vicky-Jha/Number-Theory?style=for-the-badge" >
