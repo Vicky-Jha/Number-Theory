@@ -8,7 +8,7 @@ Voila!
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=NT%20for%20Competitive%20/%20for%20Interview%20prep&fontSize=70&fontAlignY=70" /> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=NT%20for%20Competitive%20/%20for%20Interview%20prep&fontSize=35&fontAlignY=35" /> 
 <h2 align="center">👉 A Collection of Solutions to Number Theory Problems 👈</h2>
 </p>
 
