@@ -3,7 +3,7 @@
 # Hacktober Fest
 ![Hacktober](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125)
 Voila!
-🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
+🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Contribute to open source and pick a limited edition T-shirt. You have until October 31 to submit four valid pull requests, and win T-shirt labelled as Hacktoberfest, keep up the great work. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
 
 
 <p align="center">
@@ -33,7 +33,7 @@ Voila!
 
 ## Introduction
 
-This Repo is aimed to have the solutions for Interview/Competitive Programming Number theory problems/Questions.
+This Repo is aimed to have the solutions for Interview/Competitive Programming Number theory problems/Questions in C++/Java/Python/PHP/SQL etc coding languages.
 
 :star2: Star it 
 :fork_and_knife:Fork it
