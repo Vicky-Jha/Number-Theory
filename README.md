@@ -1,4 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/Vicky-Jha/Number-Theory/badge)](https://www.codefactor.io/repository/github/kaustubhgupta/hacktoberfest2020_)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 
 # Hacktober Fest
@@ -8,7 +7,7 @@ Voila!
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=NT%20for%20Competitive%20/%20for%20Interview%20prep&fontSize=35&fontAlignY=35" /> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Number%20Theory%20for%20Competitive%20/%20for%20Interview%20prep&fontSize=35&fontAlignY=35" /> 
 <h2 align="center">👉 A Collection of Solutions to Number Theory Problems 👈</h2>
 </p>
 
