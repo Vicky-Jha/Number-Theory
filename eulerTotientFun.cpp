@@ -55,4 +55,8 @@ int phi(int n) {
 //Explanation
 
 //https://cp-algorithms.com/algebra/phi-function.html
-//a^ϕ(m)≡1 (mod m) //Property of Euler totient function // ϕ(m) = m - 1 if m is prime
+//Properties of Euler totient function 
+// ϕ(m) = m - 1 if m is prime
+//a^ϕ(m)≡1 (mod m) 
+// ϕ(ab)=ϕ(a)⋅ϕ(b)
+
