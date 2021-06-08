@@ -1,5 +1,5 @@
 
-// Gives values of x, and y in equation ex. 39x + 15y = 12 iff 12 % gcd(39, 15) == 0
+// Gives values of x, and y in equation ex. (a = 39)x + (b = 15)y = (c = 3) iff gcd(a, b) == c
 // https://cp-algorithms.com/algebra/extended-euclid-algorithm.html
 int extendedEuclidGcd(int a, int b, int& x, int& y) {
         if(b == 0) {
