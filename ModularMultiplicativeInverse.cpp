@@ -28,5 +28,5 @@ int main()
 }
 //modular multiplicative inverse of a under modulus n
 //Modular inverse of a under modulo n exist iff GCD(a,n) = 1 // coprime
-//Little fermat's theorem states that if p is prime number then p ^ (n-1) = 1
+//Little fermat's theorem states that if n is prime number then (a ^ (n-1)) % n = 1, multiplying a^-1 on both sides, (a^n-2)%n == a^-1 is the solution
 //under mods(n) // = here is sign of modular congruency
