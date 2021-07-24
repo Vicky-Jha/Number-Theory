@@ -56,7 +56,9 @@ int phi(int n) {
 
 //https://cp-algorithms.com/algebra/phi-function.html
 //Properties of Euler totient function 
-// ϕ(m) = m - 1 if m is prime
+// ϕ(m) = m - 1 if m is prime // if m^k && k >= 1 then ϕ(m^k) = m^k - m^(k-1) // because if m is prime then (m^k)/m are count of numbers divisible by m
 //a^ϕ(m)≡1 (mod m) 
 // ϕ(ab)=ϕ(a)⋅ϕ(b)
+
+//  example ϕ(20) = 2^2 * 5 = (2^2 - 2^1) * (5^1 - 5^0) = 8;
 
