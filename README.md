@@ -31,6 +31,12 @@ Voila!
 <img src="https://img.shields.io/github/contributors/Vicky-Jha/Number-Theory?style=for-the-badge">
 </p>
 
+## Steps to contribute and win: 
+1. Create 4 issues 
+2. Wait till the issue/issues gets assigned to you 
+3. Make valid pull requests 
+4. Wait till the pull request is approaved(Either pull request will get merged or will be given the '**hacktoberfest-accepted**' label) by maintainer.
+
 ## Introduction
 
 This Repo is aimed to have the solutions for Interview/Competitive Programming Number theory problems/Questions in C++/Java/Python/PHP/SQL etc coding languages.
