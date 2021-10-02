@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 
 # Hacktober Fest
-![Hacktober](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125)
+![Hacktober](https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg)
 Voila!
 🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Contribute to open source and pick a limited edition T-shirt. You have until October 31 to submit four valid pull requests, and win T-shirt labelled as Hacktoberfest, keep up the great work. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
 
@@ -25,7 +25,7 @@ Voila!
 <img src="https://img.shields.io/github/issues-pr-closed-raw/Vicky-Jha/Number-Theory?style=for-the-badge" >
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/hacktoberfest/2020/Vicky-Jha/Number-Theory?style=for-the-badge">
+<img src="https://camo.githubusercontent.com/64ce9e38f4bc6cc977a2576a3e1c0c12e56a99d28b7a416aeaea483f9e9c1535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6861636b746f626572666573742d323032312d626c756576696f6c6574">
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/contributors/Vicky-Jha/Number-Theory?style=for-the-badge">
