@@ -32,10 +32,12 @@ Voila!
 </p>
 
 ## Steps to contribute and win: 
-1. Create 4 issues 
+1. Create 1 or more issues or directly move to 3rd step
 2. Wait till the issue/issues gets assigned to you 
 3. Make valid pull requests 
-4. Wait till the pull request is approaved(Either pull request will get merged or will be given the '**hacktoberfest-accepted**' label) by maintainer.
+4. Wait till the pull request is approved(Either pull request will get merged or will be given the '**hacktoberfest-accepted**' label) by maintainer.
+
+**Just 4 PR(pull requests) needs to get accepted**
 
 ## Introduction
 
