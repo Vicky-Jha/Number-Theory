@@ -36,6 +36,7 @@ Voila!
 2. Wait till the issue/issues gets assigned to you 
 3. Make valid pull requests 
 4. Wait till the pull request is approved(Either pull request will get merged or will be given the '**hacktoberfest-accepted**' label) by maintainer.
+5. Star it :star2:
 
 **Just 4 PR(pull requests) needs to get accepted**
 
