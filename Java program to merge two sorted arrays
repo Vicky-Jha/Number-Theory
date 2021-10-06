@@ -1,0 +1,28 @@
+import java.util.*;
+public class Main{
+	public static void main(String[] args) {
+	    int n1,n2,i,m=0,n=0,k=0;
+	    Scanner sc=new Scanner(System.in);
+	    n1=sc.nextInt();
+	     n2=sc.nextInt();
+	    int[] a1=new int[n1];
+	    int[] a2=new int[n2];
+	    int[] a3=new int[n1+n2];
+	    for(i=0;i<n1;i++)
+	    a1[i]=sc.nextInt();
+	    for(i=0;i<n1;i++)
+	    a2[i]=sc.nextInt();
+	    while(m<n1 && n<n2){
+	        if(a1[m]<a2[n])
+	        a3[k++]=a1[m++];
+	        else
+	        a3[k++]=a2[n++];
+	    }
+	    while(m<n1)
+	    a3[k++]=a1[m++];
+	    while(n<n2)
+	    a3[k++]=a2[n++];
+	    for(int u=0;u<n1+n2;u++)
+		System.out.print(a3[u]+" ");
+	}
+}
