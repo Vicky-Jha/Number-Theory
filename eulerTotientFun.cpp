@@ -23,6 +23,28 @@ unordered_map<int, int> primeFactors(int n)
     return factorization;
 }
 
+int powerFunc(int a , int n)
+{
+
+    int res = 1;
+    while(n)
+    {
+        if(!(n & 1))
+        {
+            n = n / 2;
+            a = a * a;
+        }
+        else
+        {
+            n--;
+            res = res * a;
+        }
+
+    }
+    return res;
+
+}
+
 int eulerTotientFunction(int n)
 {
     int ETF = 1;
@@ -55,6 +77,14 @@ int phi(int n)
     if (n > 1) //if n is prime
         result -= result / n;
     return result;
+}
+
+int main() {
+    cout << eulerTotientFunction(20) << endl;
+    cout << phi(20) << endl;
+    
+    
+    return 0;
 }
 
 //Explanation
