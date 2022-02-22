@@ -28,3 +28,5 @@ int main()
 	
     return 0;
 }
+
+// if prime factorization of n is p1^e1, p2^e2 ... then no of divisors is (e1+1)*(e2+1)
